@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Vikas Kimothi | I am From Hindu college of engineering taking bachelor of technology in CSE Department.
+Hello! My name is Vikas Kimothi | From Hindu college of engineering taking bachelor of technology in CSE Department.
 
 I have huge interest in web develpoing and app developing Currently Studying pytho and java to being successfull in my life.
 

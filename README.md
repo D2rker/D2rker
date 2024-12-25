@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Viki and I'm a Developer, from Uttarakhand</p>
+<p align="left">My name is Vikas kimothi and I'm a Developer, from Uttarakhand</p>
 
 ###
 
